@@ -12,7 +12,7 @@
 # URL
 
 <p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="https://twitter.com/27a0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
 </p>  
 <br>
 
