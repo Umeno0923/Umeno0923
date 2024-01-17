@@ -12,13 +12,14 @@
 # URL
 
 <p align="left">
-<a href="https://twitter.com/27a0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="https://twitter.com/27a0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=Umeno0000" height="30" width="40" /></a>
 </p>  
 <br>
 
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,linux,py,react,aws,ae,ai,figma,github,idea,vscode," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,linux,py,react,aws,ae,ai,figma,github,idea,vscode," /> 
+<br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
