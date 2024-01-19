@@ -21,5 +21,4 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,linux,py,react,aws,ae,ai,figma,github,idea,vscode," /> 
 <br /><br />
 
-
 <!-- --------------------------------- :) ---------------------------------- -->
