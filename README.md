@@ -17,9 +17,14 @@
 </p>  
 <br>
 
+# SKILL
+
+<img src="https://skillicons.dev/icons?i=html,css,figma" /> 
+<br /><br />
+
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,linux,py,react,aws,ae,ai,figma,github,idea,vscode," /> 
+<img src="https://skillicons.dev/icons?i=js,java,linux,py,react,aws,ae,ai,github,idea,vscode," /> 
 <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
